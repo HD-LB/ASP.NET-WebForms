@@ -1,0 +1,12 @@
+C:\Sites\LibrarySystemLiveDemo.Data\bin\Debug\LibrarySystemLiveDemo.Data.dll.config
+C:\Sites\LibrarySystemLiveDemo.Data\bin\Debug\LibrarySystemLiveDemo.Data.dll
+C:\Sites\LibrarySystemLiveDemo.Data\bin\Debug\LibrarySystemLiveDemo.Data.pdb
+C:\Sites\LibrarySystemLiveDemo.Data\bin\Debug\EntityFramework.dll
+C:\Sites\LibrarySystemLiveDemo.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sites\LibrarySystemLiveDemo.Data\bin\Debug\EntityFramework.xml
+C:\Sites\LibrarySystemLiveDemo.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sites\LibrarySystemLiveDemo.Data\obj\Debug\LibrarySystemLiveDemo.Data.csprojAssemblyReference.cache
+C:\Sites\LibrarySystemLiveDemo.Data\obj\Debug\LibrarySystemLiveDemo.Data.csproj.CoreCompileInputs.cache
+C:\Sites\LibrarySystemLiveDemo.Data\obj\Debug\LibrarySystemLiveDemo.Data.csproj.CopyComplete
+C:\Sites\LibrarySystemLiveDemo.Data\obj\Debug\LibrarySystemLiveDemo.Data.dll
+C:\Sites\LibrarySystemLiveDemo.Data\obj\Debug\LibrarySystemLiveDemo.Data.pdb

@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystemLiveDemo", "LibrarySystemLiveDemo.csproj", "{0A94EC84-14E9-4608-AA9A-805593484CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystemLiveDemo.Tests", "..\LibrarySystemLiveDemo.Tests\LibrarySystemLiveDemo.Tests.csproj", "{66DEE5AA-7BC2-4074-81B7-6655008761A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{9C57A4A6-B699-44D7-B9A5-471AF79E29F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystemLiveDemo.Data", "..\LibrarySystemLiveDemo.Data\LibrarySystemLiveDemo.Data.csproj", "{0583B2B7-D829-44A3-AF49-7A9732B95D8A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{D705D4D0-440A-41B4-A55D-C411210B88B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystemLiveDemo.Services", "..\LibrarySystemLiveDemo.Services\LibrarySystemLiveDemo.Services.csproj", "{4ED7D952-861F-44B3-B89A-510352A1ABC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVP", "MVP", "{E67BFB78-4E43-4C28-B62A-5C9ABE6A33FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystemLiveDemo.MVP", "..\LibrarySystemLiveDemo.MVP\LibrarySystemLiveDemo.MVP.csproj", "{3E4DA264-8672-40C5-8CCA-F3AEE5FF30F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Auth", "Auth", "{12A34E6F-AE59-4A1F-BABE-D39624B5088A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystemLiveDemo.Auth", "..\LibrarySystemLiveDemo.Auth\LibrarySystemLiveDemo.Auth.csproj", "{EAD0F12E-F02A-4966-9850-6A08B53FBECC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D52C610B-959B-4690-BEFC-A764A8E67817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystemLiveDemo.Services.Tests", "LibrarySystemLiveDemo.Services.Tests\LibrarySystemLiveDemo.Services.Tests.csproj", "{2E67BDC2-B37E-47D9-B93D-1F2B620ACE88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarySystemLiveDemo.MVP.Tests", "..\LibrarySystemLiveDemo.MVP.Tests\LibrarySystemLiveDemo.MVP.Tests.csproj", "{16B147F4-7DE6-4102-B988-8563B4C28C43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A94EC84-14E9-4608-AA9A-805593484CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A94EC84-14E9-4608-AA9A-805593484CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A94EC84-14E9-4608-AA9A-805593484CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A94EC84-14E9-4608-AA9A-805593484CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66DEE5AA-7BC2-4074-81B7-6655008761A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DEE5AA-7BC2-4074-81B7-6655008761A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DEE5AA-7BC2-4074-81B7-6655008761A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DEE5AA-7BC2-4074-81B7-6655008761A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0583B2B7-D829-44A3-AF49-7A9732B95D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0583B2B7-D829-44A3-AF49-7A9732B95D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0583B2B7-D829-44A3-AF49-7A9732B95D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0583B2B7-D829-44A3-AF49-7A9732B95D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED7D952-861F-44B3-B89A-510352A1ABC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED7D952-861F-44B3-B89A-510352A1ABC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED7D952-861F-44B3-B89A-510352A1ABC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED7D952-861F-44B3-B89A-510352A1ABC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4DA264-8672-40C5-8CCA-F3AEE5FF30F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4DA264-8672-40C5-8CCA-F3AEE5FF30F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4DA264-8672-40C5-8CCA-F3AEE5FF30F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4DA264-8672-40C5-8CCA-F3AEE5FF30F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD0F12E-F02A-4966-9850-6A08B53FBECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD0F12E-F02A-4966-9850-6A08B53FBECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD0F12E-F02A-4966-9850-6A08B53FBECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD0F12E-F02A-4966-9850-6A08B53FBECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E67BDC2-B37E-47D9-B93D-1F2B620ACE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E67BDC2-B37E-47D9-B93D-1F2B620ACE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E67BDC2-B37E-47D9-B93D-1F2B620ACE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E67BDC2-B37E-47D9-B93D-1F2B620ACE88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B147F4-7DE6-4102-B988-8563B4C28C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B147F4-7DE6-4102-B988-8563B4C28C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B147F4-7DE6-4102-B988-8563B4C28C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B147F4-7DE6-4102-B988-8563B4C28C43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0583B2B7-D829-44A3-AF49-7A9732B95D8A} = {9C57A4A6-B699-44D7-B9A5-471AF79E29F0}
+		{4ED7D952-861F-44B3-B89A-510352A1ABC7} = {D705D4D0-440A-41B4-A55D-C411210B88B5}
+		{3E4DA264-8672-40C5-8CCA-F3AEE5FF30F5} = {E67BFB78-4E43-4C28-B62A-5C9ABE6A33FD}
+		{EAD0F12E-F02A-4966-9850-6A08B53FBECC} = {12A34E6F-AE59-4A1F-BABE-D39624B5088A}
+		{2E67BDC2-B37E-47D9-B93D-1F2B620ACE88} = {D52C610B-959B-4690-BEFC-A764A8E67817}
+		{16B147F4-7DE6-4102-B988-8563B4C28C43} = {D52C610B-959B-4690-BEFC-A764A8E67817}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10B3C4DD-003A-487F-AA72-E449603DA0B6}
+	EndGlobalSection
+EndGlobal

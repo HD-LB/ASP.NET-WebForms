@@ -1,0 +1,15 @@
+C:\Sites\LibrarySystemLiveDemo.Services\obj\Debug\LibrarySystemLiveDemo.Services.csprojAssemblyReference.cache
+C:\Sites\LibrarySystemLiveDemo.Services\obj\Debug\LibrarySystemLiveDemo.Services.csproj.CoreCompileInputs.cache
+C:\Sites\LibrarySystemLiveDemo.Services\bin\Debug\LibrarySystemLiveDemo.Services.dll.config
+C:\Sites\LibrarySystemLiveDemo.Services\bin\Debug\LibrarySystemLiveDemo.Services.dll
+C:\Sites\LibrarySystemLiveDemo.Services\bin\Debug\LibrarySystemLiveDemo.Services.pdb
+C:\Sites\LibrarySystemLiveDemo.Services\bin\Debug\EntityFramework.dll
+C:\Sites\LibrarySystemLiveDemo.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sites\LibrarySystemLiveDemo.Services\bin\Debug\LibrarySystemLiveDemo.Data.dll
+C:\Sites\LibrarySystemLiveDemo.Services\bin\Debug\LibrarySystemLiveDemo.Data.pdb
+C:\Sites\LibrarySystemLiveDemo.Services\bin\Debug\LibrarySystemLiveDemo.Data.dll.config
+C:\Sites\LibrarySystemLiveDemo.Services\bin\Debug\EntityFramework.xml
+C:\Sites\LibrarySystemLiveDemo.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sites\LibrarySystemLiveDemo.Services\obj\Debug\LibrarySystemLiveDemo.Services.csproj.CopyComplete
+C:\Sites\LibrarySystemLiveDemo.Services\obj\Debug\LibrarySystemLiveDemo.Services.dll
+C:\Sites\LibrarySystemLiveDemo.Services\obj\Debug\LibrarySystemLiveDemo.Services.pdb
